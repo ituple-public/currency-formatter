@@ -1,0 +1,33 @@
+{
+  "name": "@ituple-public/currency-formatter",
+  "version": "0.1.0",
+  "description": "Add currency prefi to amount and do currency formatting",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ituple-public/currency-formatter.git"
+  },
+  "keywords": [
+    "currency",
+    "formatter",
+    "nodemodule",
+    "ituplemodules",
+    "common"
+  ],
+  "author": "Sushant Ashu <sushant.ashu@outlook.com> (https://github.com/ituple-public)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ituple-public/currency-formatter/issues"
+  },
+  "homepage": "https://github.com/ituple-public/currency-formatter#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
